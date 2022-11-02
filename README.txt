@@ -1,0 +1,1 @@
+This repository is about creating a website project by using HTML&CSS. 
